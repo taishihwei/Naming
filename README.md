@@ -1,8 +1,8 @@
 # 姓名學筆記
 
-## ChatGPT
+## 規則
 
-根據《康熙字典》、姓名學的三才五格與五行(金、木、水、火、土)的關係。需要滿足以下所有條件：
+必須根據《康熙字典》、姓名學的三才五格與五行(金、木、水、火、土)的關係。需要滿足以下所有條件：
 一、姓名學五格靈動吉數的計算公式：
 
     1.天格 = 姓氏筆劃數 + 1。
@@ -11,9 +11,8 @@
     4.外格 = 尾字筆劃數 + 1。
     5.總格 = 姓名所有字筆劃數總和。
 
-二、靈動吉數：1、3、5、6、7、8、11、13、15、16、17、18、21、23、24、25、29、31、32、33、35、37、39、41、45、47、48、52、55、57、61、63、65、67、68、
-
-姓氏「」，請提供合適的姓名清單。
+二、靈動吉數：
+>1、3、5、6、7、8、11、13、15、16、17、18、21、23、24、25、29、31、32、33、35、37、39、41、45、47、48、52、55、57、61、63、65、67、68、75、81
 
 ## 程式碼 (C#)
 
@@ -99,11 +98,21 @@ namespace ConsoleApp
 
 ## 參考
 
-1. [不專業算名字 寶寶名字自己取](https://www.dcard.tw/f/parentchild/p/240431270)
-2. [取名是種藝術跟技術，自己的寶寶名字自己取](https://shadindin.com/naming/取名是種藝術跟技術，自己的寶寶名字自己取)
-3. [生肖蛇命名指南｜喜用字大全建議與忌用部首解析](https://1788lu.com/name-rename/newborn-baby-name-reference-library-by-year.html)
-4. [名字測試評分](https://www.zhanbuwang.com/xingmingceshi_2.php)
-5. [天地人三才配置](http://www.cdi.org.tw/name/n-3-water.html)
-6. [生肖蛇取名宜忌：打造一生旺運好名字](https://1788lu.com/name-rename/newborn-baby-name-reference-library-by-year.html)
+1. [呂子平](https://1788lu.com/)
+2. [不專業算名字 寶寶名字自己取](https://www.dcard.tw/f/parentchild/p/240431270)
+3. [姓氏18劃的筆劃組合](https://1788lu.com/name-rename/name-and-glossology/name-surname-strokes-18.html)
+4. [生肖蛇取名宜忌：打造一生旺運好名字](https://1788lu.com/name-rename/newborn-baby-name-reference-library-by-year.html)
+5. [西元查農曆](https://ppg.naif.org.tw/naif/MarketInformation/Other/Calendar_V3.aspx)
+6. [生辰八字五行查詢](https://www.sheup.org/shengchenbazi.php)
+7. [八字算命](https://www.buyiju.com/bazi/#csshow)
+8. [八字重量](https://www.bazicopy.com/index.php)
+9. [名字測試評分](https://www.zhanbuwang.com/xingmingceshi_2.php)
+10. [姓名學就是名字的風水學](https://www.thenewslens.com/article/196583)
+11. [姓名取名命名網](https://www.name104.com/name-word.php)
 
-## 清單
+## 呂子芸：姓氏18劃、中字7劃、尾字10劃
+
+中字：妤、希、初、妡、均、妘、彤、辛、里、攸、彣、貝、牡
+
+尾字：真、夏、庭、書、純、娜、容、恩、紋、纭、恆、珈、玹、宮
+
